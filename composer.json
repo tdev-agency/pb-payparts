@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "TDevAgency\\PbSdk\\PayParts": "src/"
+            "TDevAgency\\PbSdk\\PayParts\\": "src/"
         }
     }
 }
