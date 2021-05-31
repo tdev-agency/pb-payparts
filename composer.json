@@ -1,0 +1,19 @@
+{
+    "name": "tdev-agency/pb-payparts",
+    "description": "PHP SDK for Privatbank payParts",
+    "type": "library",
+    "authors": [
+        {
+            "name": "TDev Agency",
+            "email": "contact@tdev.agency"
+        }
+    ],
+    "require": {
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "TDevAgency\\PbSdk\\PayParts": "src/"
+        }
+    }
+}
