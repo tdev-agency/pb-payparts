@@ -3,7 +3,7 @@
     "description": "PHP SDK for Privatbank payParts",
     "type": "library",
     "license": "MIT",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "authors": [
         {
             "name": "TDev Agency",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "TDevAgency\\PbSdk\\PayParts\\": "src/"
+            "TDevAgency\\PbSdk\\": "src/"
         }
     }
 }
